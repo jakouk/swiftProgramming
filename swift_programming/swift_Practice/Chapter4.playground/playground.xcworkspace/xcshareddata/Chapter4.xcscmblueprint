@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A48668F343A02766927FA5CD7F03F884D3123DAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A7CD4421312ADCE4C8C6DD8492D3417491A39483" : 9223372036854775807,
+    "A48668F343A02766927FA5CD7F03F884D3123DAA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A21A5925-3D86-4E9C-A450-59EF22D05ED6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A7CD4421312ADCE4C8C6DD8492D3417491A39483" : "",
+    "A48668F343A02766927FA5CD7F03F884D3123DAA" : "swift_programming\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Chapter4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift_Practice\/Chapter4.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/yagom\/swift_programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A48668F343A02766927FA5CD7F03F884D3123DAA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jakouk\/swiftProgramming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7CD4421312ADCE4C8C6DD8492D3417491A39483"
+    }
+  ]
+}
