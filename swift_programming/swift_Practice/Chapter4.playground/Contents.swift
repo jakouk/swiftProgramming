@@ -120,7 +120,7 @@ var names: Array<String> = ["yagom", "chulsoo", "younghee", "yagom"]
 //[String] 은 Array<String>의 축약 표현입니다.
 
 var emptyArray: [Any] = [Any]() //Any 데이터를 요소로 갖는 빈 배열을 생성합니다.
-//var emptyArray: [Any] = Array<Any>()    //위의 선언과 정확히 같은 동작을 하는 코등비니다.
+//var emptyArray: [Any] = Array<Any>()    //위의 선언과 정확히 같은 동작을 하는 코드입니다.
 //var emptyArray: [Any] = []
 // 배열의 타입을 정확히 명시해줬다면 []만으로도 빈 배열을 생성할 수 있습니다.
 
@@ -257,6 +257,7 @@ let subtractSet: Set<String> = englishClassStudents.subtracting(koreanClassStrud
 //차집합 {"john"}
 
 print(unionSet.sorted())    //["chulsoo", "hana", "jenny", "john", "minsoo", "yagom"]
+
 
 
 ///4-13 서트의 활용 - 포함 관계연산 
